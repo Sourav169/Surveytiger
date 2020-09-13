@@ -1,0 +1,7 @@
+.container{
+  margin-left: 25rem;
+  display: flex;
+  justify-content: flex-start;
+  border: 5px black; 
+ 
+}
